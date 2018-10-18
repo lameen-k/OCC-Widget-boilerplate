@@ -1,5 +1,5 @@
 # OCC-Widget-boilerplate
-Oracle Commerce Cloud  Widget Boilerplare
+Oracle Commerce Cloud  Widget Boilerplate
 
 ___
 
