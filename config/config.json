@@ -1,0 +1,16 @@
+{
+    "widgetDescriptorName": "OCC Settings",
+    "properties": [
+
+      {
+        "id": "am_fields",
+        "type": "stringType",
+        "name": "labels",
+        "helpTextResourceId": "helpText",
+        "labelResourceId": "label",
+        "defaultValue": "",
+        "required": false
+      }
+
+    ]
+  }

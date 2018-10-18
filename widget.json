@@ -1,0 +1,22 @@
+{
+    "name": "OCC Widget Boilerplate",
+    "version": 1,
+    "global": false,
+    "javascript": "occ-widget",
+    "availableToAllPages": true,
+    "jsEditable": true,
+    "imports": [
+        "category",
+        "categoryId",
+        "dimensionId",
+        "productTypes"
+    ],
+    "pageTypes": [
+        "category",
+        "searchResults"
+    ],
+    "config": {
+        "fields": "",
+        "maxNoOfElements": "10"
+    }
+}
